@@ -1,1 +1,2 @@
 # trusted
+# wawasan edukasi jakarta
